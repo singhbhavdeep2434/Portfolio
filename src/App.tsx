@@ -15,10 +15,10 @@ function App() {
       <main>
         <Hero />
         <Experience />
+        <Skills />
         <Projects />
         <Education />
         <Certifications />
-        <Skills />
         <Contact />
       </main>
       <footer className="bg-gray-900 text-white py-8 text-center">
