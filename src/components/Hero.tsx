@@ -15,7 +15,7 @@ export default function Hero() {
         <h1 className="text-5xl font-bold mb-6">Bhavdeep Singh</h1>
         <h2 className="text-2xl text-blue-400 mb-8">Full Stack Developer</h2>
         <p className="text-xl max-w-2xl mx-auto mb-8">
-          Passionate developer with expertise in Java, JavaScript, Python, and Machine Learning.
+          Passionate developer with expertise in Java, JavaScript, Python, Apex and Machine Learning.
           Specialized in building scalable applications and microservices architecture.
         </p>
         <div className="flex gap-4 justify-center">

@@ -4,25 +4,59 @@ export default function Skills() {
   const skillCategories = [
     {
       title: "Programming Languages",
-      skills: ["Java", "Python", "JavaScript", "C++", "C#"]
+      skills: ["Java", "Python", "JavaScript", "TypeScript", "Apex", "C++", "C#"]
     },
     {
       title: "Frameworks & Libraries",
-      skills: ["Spring Boot", "React", "Node.js", "Express.js", "MVC"]
+      skills: ["Spring Boot", "React", "Node.js", "Express.js", "LWC"]
     },
     {
       title: "Databases",
       skills: ["SQL", "MySQL", "PostgreSQL", "MongoDB"]
     },
     {
+      title: "Web Technologies",
+      skills: ["HTML", "CSS", "XML", "REST", "JSON"]
+    },
+    {
       title: "Tools & Technologies",
-      skills: ["AWS", "Git", "Docker", "Postman", "Swagger"]
+      skills: ["AWS", "Git", "GitHub", "Docker", "CI/CD", "Postman", "Swagger", "Linux"]
     },
     {
       title: "Other Skills",
-      skills: ["Machine Learning", "Deep Learning", "Microservices", "RESTful APIs"]
+      skills: [
+        "Machine Learning",
+        "Deep Learning",
+        "Microservices",
+        "Data Structures",
+        "Design Patterns",
+        "RESTful APIs"
+      ]
     }
   ];
+  
+  // const skillCategories = [
+  //   {
+  //     title: "Programming Languages",
+  //     skills: ["Java", "Python", "JavaScript", "C++", "C#"]
+  //   },
+  //   {
+  //     title: "Frameworks & Libraries",
+  //     skills: ["Spring Boot", "React", "Node.js", "Express.js", "MVC"]
+  //   },
+  //   {
+  //     title: "Databases",
+  //     skills: ["SQL", "MySQL", "PostgreSQL", "MongoDB"]
+  //   },
+  //   {
+  //     title: "Tools & Technologies",
+  //     skills: ["AWS", "Git", "Docker", "Postman", "Swagger"]
+  //   },
+  //   {
+  //     title: "Other Skills",
+  //     skills: ["Machine Learning", "Deep Learning", "Microservices", "RESTful APIs"]
+  //   }
+  // ];
 
   return (
     <section id="skills" className="py-20 bg-gray-50">

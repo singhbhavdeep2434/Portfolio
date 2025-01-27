@@ -12,8 +12,8 @@ export const projectsData = [
     description: "A web-based application to manage courses and student information with secure REST APIs and PostgreSQL database integration.",
     technologies: ["Spring Boot", "React", "PostgreSQL", "REST APIs", "JWT", "Spring Security"],
     image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80&w=1000",
-    githubUrl: "https://github.com/bhavdeep/course-management",
-    liveUrl: "https://course-management.demo.com"
+    githubUrl: "https://github.com/singhbhavdeep2434/UniversityCourseManagement",
+    liveUrl: "https://github.com/singhbhavdeep2434/UniversityCourseManagement"
   },
   {
     title: "Portfolio Website",

@@ -16,7 +16,7 @@ export default function Experience() {
             </div>
             <ul className="list-disc list-inside text-gray-700 space-y-2">
               <li>Developed RESTful APIs enabling smooth communication between backend services and frontend applications</li>
-              <li>Implemented Spring Security for API endpoint protection</li>
+              <li>Implemented Security for API endpoint protection</li>
               <li>Leveraged JWT for efficient authentication and authorization</li>
               <li>Collaborated closely with teams to implement continuous integration</li>
               <li>Utilized Swagger and frameworks for API documentation</li>

@@ -10,5 +10,11 @@ export const certificationsData = [
     issuer: "Net Ninja",
     date: "2024",
     credentialUrl: ""
+  }, 
+  {
+    title: "Salesforce Certified AI Associate",
+    issuer: "Trailhead by Salesforce",
+    date: "2025",
+    credentialUrl: ""
   }
 ];
